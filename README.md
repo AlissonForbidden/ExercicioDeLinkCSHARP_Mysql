@@ -1,4 +1,5 @@
 ## Mude o nome do banco para seu NOME e RM
+Exercicio pré prova para meus colegas de classe treinarem
 Contexto: Sistema que gerencia TCCs de uma Escola mostrando orientadores, integrantes
 e dados mínimos do tcc
 
